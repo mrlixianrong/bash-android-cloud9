@@ -99,7 +99,7 @@ android update sdk --filter extra --no-ui --force
 android update sdk --filter extra --no-ui --force
 android update sdk --all --filter build-tools-23.0.2 --no-ui --force
 android update sdk --filter android-20 --no-ui --force   #Android 4.4W.2 KitKat
-android update sdk --filter android-22 --no-ui --force   #Android 5.1.1  Lollipop
+#android update sdk --filter android-22 --no-ui --force   #Android 5.1.1  Lollipop
 #android update sdk --filter android-23 --no-ui --force   #Android 6.0    Marshmallow
 
 
@@ -151,7 +151,7 @@ echo "--------------------------------------------------------------------------
 echo "------------------------------------------------------------------------------"
 echo "------------------------------------------------------------------------------"
 echo "------------------------------------------------------------------------------"
-Echo "Now the fun part, Lets make the Hello World App for both Ant and Gradle"
+echo "Now the fun part, Lets make the Hello World App for both Ant and Gradle"
 
 
 
